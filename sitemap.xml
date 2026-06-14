@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Be.Luck Forwarding — homepage -->
+  <url>
+    <loc>https://beluck-trans.github.io/</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 日後若改為多頁、新增獨立網址,在這行上方複製一組 <url>…</url> 即可,例如:
+  <url>
+    <loc>https://beluck-trans.github.io/china-to-vietnam-freight.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+</urlset>

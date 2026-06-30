@@ -1,4 +1,3 @@
-# Cargomap — allow all crawlers
 User-agent: *
 Allow: /
 

@@ -1,0 +1,6 @@
+title: Cargomap
+description: "Field notes by Bob Law, an ocean freight practitioner in South China."
+url: "https://cargomap.github.io"
+markdown: kramdown
+exclude:
+  - README.md
